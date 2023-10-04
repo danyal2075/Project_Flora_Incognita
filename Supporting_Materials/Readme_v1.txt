@@ -1,0 +1,5 @@
+- All the datasets are in their orginal form.
+- some datasets have no information about plant_part. So i have checked them manually and them pass that value
+- some datasets have multiple plants. which are written with disease names. disease names are broken to get plant name
+- PDD271 dataset has txt file which has all the classes. i changed the position of the names to extract information from them. The changed one is in the migration file.
+- 

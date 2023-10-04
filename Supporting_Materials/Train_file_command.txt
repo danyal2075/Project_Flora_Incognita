@@ -1,0 +1,1 @@
+python train.py --data-path '' --info-path '' -b 256 --epochs 50
